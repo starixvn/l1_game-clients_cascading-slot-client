@@ -228,7 +228,7 @@ export const languages = {
     },
     "cascadingslot": {
         "auto_spin": "オートスピン",
-        "auto_spin_guide_text": "自動スピン数",
+        "auto_spin_guide_text": "自動スピン回数",
         "auto_spin_left": "オートスピン残り",
         "bet_level": "ベットレベル",
         "bet_level_shorten": "ベットレベル",
@@ -286,7 +286,7 @@ export const languages = {
     },
     "WukongsRevenge": {
         "game_icon_name": "Wukong's Revenge",
-        "game_name": "Wukong's Revenge"
+        "game_name": "悟空の復讐"
     }
 };
 
