@@ -11,6 +11,7 @@
             "cc": [
                 "./tests/cocos-testing/cc"
             ],
+            "db://shared-common-slot/*": ["./extensions/shared-common-slot/assets/*"],
             "db://shared-components/*": [
                 "./extensions/shared-components/assets/*"
             ],
