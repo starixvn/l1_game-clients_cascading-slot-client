@@ -27,6 +27,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
     },
     storagePrefixKey: "wukongs_revenge",
     tolgeeUrl: "",
+    subPromotionDomain: "l2-promotion2",
 };
 
 let configDev = {
