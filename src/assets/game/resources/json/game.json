@@ -4,6 +4,5 @@
     "multiplierMascotAnimationName": "event",
     "bigWinMascotAnimationName": "event",
     "freespinMascotAnimationName": "event",
-    "enablePeekEffect": false,
-    "enableScatterExtraWin": true
+    "enablePeekEffect": true
 }
