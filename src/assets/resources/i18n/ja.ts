@@ -7,7 +7,7 @@ export const languages = {
         "bet_choice": "ベット選択",
         "betChoice2": "ベット選択",
         "bet_choice_away": "アウェイ",
-        "bet_choice_draw": "ドロー",
+        "bet_choice_draw": "引き分け",
         "bet_choice_even": "偶数",
         "bet_choice_home": "ホーム",
         "bet_choice_odd": "奇数",
