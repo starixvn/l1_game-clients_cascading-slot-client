@@ -1,0 +1,104 @@
+
+effect-multiplier.jpg
+size: 1990,1734
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightning_1
+  rotate: false
+  xy: 0, 1034
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_10
+  rotate: false
+  xy: 1328, 1034
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_11
+  rotate: false
+  xy: 1328, 332
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_12
+  rotate: true
+  xy: 702, 0
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_13
+  rotate: false
+  xy: 1660, 1034
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_14
+  rotate: false
+  xy: 1660, 332
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_2
+  rotate: false
+  xy: 0, 332
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_3
+  rotate: false
+  xy: 332, 1034
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_4
+  rotate: false
+  xy: 332, 332
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_5
+  rotate: false
+  xy: 664, 1034
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_6
+  rotate: false
+  xy: 664, 332
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_7
+  rotate: true
+  xy: 0, 0
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_8
+  rotate: false
+  xy: 996, 1034
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
+lightning_9
+  rotate: false
+  xy: 996, 332
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
+  index: -1
