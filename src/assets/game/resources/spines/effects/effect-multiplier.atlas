@@ -1,146 +1,146 @@
 
 effect-multiplier.webp
-size: 1990,1586
+size: 1906,1990
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 lightning_1
-  rotate: false
-  xy: 0, 886
+  rotate: true
+  xy: 0, 1660
   size: 330, 700
-  orig: 332, 702
-  offset: 1, 1
+  orig: 330, 700
+  offset: 0, 0
   index: -1
 lightning_10
-  rotate: false
-  xy: 1328, 784
+  rotate: true
+  xy: 1404, 1660
   size: 330, 400
   orig: 332, 402
   offset: 1, 1
   index: -1
 lightning_11
-  rotate: false
-  xy: 1660, 1186
+  rotate: true
+  xy: 1404, 1328
   size: 330, 400
   orig: 332, 402
   offset: 1, 1
   index: -1
 lightning_12
-  rotate: false
-  xy: 1660, 784
+  rotate: true
+  xy: 1404, 996
   size: 330, 400
   orig: 332, 402
   offset: 1, 1
   index: -1
 lightning_13
-  rotate: false
-  xy: 664, 332
+  rotate: true
+  xy: 1404, 664
   size: 330, 400
   orig: 332, 402
   offset: 1, 1
   index: -1
 lightning_14
-  rotate: false
-  xy: 996, 382
+  rotate: true
+  xy: 702, 332
   size: 330, 400
   orig: 332, 402
   offset: 1, 1
   index: -1
 lightning_15
-  rotate: false
-  xy: 1328, 382
+  rotate: true
+  xy: 1104, 332
   size: 330, 400
   orig: 332, 402
   offset: 1, 1
   index: -1
 lightning_16
-  rotate: false
-  xy: 1660, 382
+  rotate: true
+  xy: 1506, 332
   size: 330, 400
   orig: 332, 402
   offset: 1, 1
   index: -1
 lightning_17
-  rotate: false
-  xy: 332, 32
+  rotate: true
+  xy: 0, 0
   size: 330, 400
   orig: 332, 402
   offset: 1, 1
   index: -1
 lightning_18
   rotate: true
-  xy: 664, 0
+  xy: 402, 0
   size: 330, 400
   orig: 332, 402
   offset: 1, 1
   index: -1
 lightning_19
   rotate: true
-  xy: 1066, 50
+  xy: 804, 0
   size: 330, 400
   orig: 332, 402
   offset: 1, 1
   index: -1
 lightning_2
-  rotate: false
-  xy: 0, 184
+  rotate: true
+  xy: 702, 1660
   size: 330, 700
-  orig: 332, 702
-  offset: 1, 1
+  orig: 330, 700
+  offset: 0, 0
   index: -1
 lightning_20
   rotate: true
-  xy: 1468, 50
+  xy: 1206, 0
   size: 330, 400
   orig: 332, 402
   offset: 1, 1
   index: -1
 lightning_3
-  rotate: false
-  xy: 332, 886
+  rotate: true
+  xy: 0, 1328
   size: 330, 700
-  orig: 332, 702
-  offset: 1, 1
+  orig: 330, 700
+  offset: 0, 0
   index: -1
 lightning_4
-  rotate: false
-  xy: 332, 434
-  size: 330, 450
-  orig: 332, 452
-  offset: 1, 1
+  rotate: true
+  xy: 702, 1328
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
   index: -1
 lightning_5
-  rotate: false
-  xy: 664, 1136
-  size: 330, 450
-  orig: 332, 452
-  offset: 1, 1
+  rotate: true
+  xy: 0, 996
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
   index: -1
 lightning_6
-  rotate: false
-  xy: 664, 734
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
+  rotate: true
+  xy: 702, 996
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
   index: -1
 lightning_7
-  rotate: false
-  xy: 996, 1186
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
+  rotate: true
+  xy: 0, 664
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
   index: -1
 lightning_8
-  rotate: false
-  xy: 996, 784
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
+  rotate: true
+  xy: 702, 664
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
   index: -1
 lightning_9
-  rotate: false
-  xy: 1328, 1186
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
+  rotate: true
+  xy: 0, 332
+  size: 330, 700
+  orig: 330, 700
+  offset: 0, 0
   index: -1
