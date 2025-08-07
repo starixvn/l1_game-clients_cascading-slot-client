@@ -4,8 +4,8 @@
   "imported": true,
   "uuid": "3c4ff80b-f845-4246-a880-6e980b75dc26",
   "files": [
-    ".jpg",
-    ".json"
+    ".json",
+    ".webp"
   ],
   "subMetas": {
     "6c48a": {
@@ -46,9 +46,9 @@
         "trimX": 0,
         "trimY": 0,
         "width": 1990,
-        "height": 1734,
+        "height": 1586,
         "rawWidth": 1990,
-        "rawHeight": 1734,
+        "rawHeight": 1586,
         "borderTop": 0,
         "borderBottom": 0,
         "borderLeft": 0,
@@ -61,16 +61,16 @@
         "vertices": {
           "rawPosition": [
             -995,
-            -867,
+            -793,
             0,
             995,
-            -867,
+            -793,
             0,
             -995,
-            867,
+            793,
             0,
             995,
-            867,
+            793,
             0
           ],
           "indexes": [
@@ -83,9 +83,9 @@
           ],
           "uv": [
             0,
-            1734,
+            1586,
             1990,
-            1734,
+            1586,
             0,
             0,
             1990,
@@ -103,12 +103,12 @@
           ],
           "minPos": [
             -995,
-            -867,
+            -793,
             0
           ],
           "maxPos": [
             995,
-            867,
+            793,
             0
           ]
         },
