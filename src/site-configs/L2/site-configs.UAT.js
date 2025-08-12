@@ -3,7 +3,7 @@ window.envConfig = {
     ssl: true,
     subDomain: "l2uatproxy",
     env: "SIT",
-    sentryUrl: "https://df0ce89a96b045e4ae626c16a143d8f9@scsentry.sgamesuat.com/51",
+    sentryUrl: "https://eb5f1c92d1da4cb6a059fa40c1276a9d@sentry-ovs.sgamesuat.com/48",
     subGuideDomain: "l2guidesuat",
     enableMsgpackParserAllGames: true,
     enableMsgpackParserOnNotification: true,
