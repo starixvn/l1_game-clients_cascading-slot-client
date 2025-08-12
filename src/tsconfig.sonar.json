@@ -8,6 +8,9 @@
             "node"
         ],
         "paths": {
+            "db://assets/*": [
+                "./assets/*"
+            ],
             "db://shared-cascading-slot/*": [
                 "./extensions/shared-cascading-slot/assets/*"
             ],
@@ -19,9 +22,6 @@
             ],
             "sc-user-service-client/dist/*": [
                 "./node_modules/sc-user-service-client/dist/*"
-            ],
-            "db://assets/*": [
-                "./assets/*"
             ],
             "socket.io-client/dist/*": [
                 "./node_modules/socket.io-client/dist/*"
