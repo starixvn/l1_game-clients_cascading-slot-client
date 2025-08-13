@@ -304,7 +304,7 @@ export const languages = {
         "from_to": "從\n{startdate} \n到\n{enddate}",
         "FSB_days": "天",
         "FSB_end_notification": "您已完成免費旋轉獎勵",
-        "FSB_end_notification_ message": "快完成了！完成回贈並贏取您的獎金",
+        "FSB_end_notification_message": "快完成了！完成回贈並贏取您的獎金",
         "FSB_end_notification_unusedFS": "促銷活動已結束！",
         "FSB_end_notification_unusedFS_message": "未使用的旋轉已丟去。獎勵已錯過",
         "FSB_end_notification_unusedFS_message1": "繼續玩！更多優惠活動等著您",

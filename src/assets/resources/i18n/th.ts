@@ -301,7 +301,7 @@ export const languages = {
         "from_to": "ตั้งแต่\n{startdate} ถึง\n{enddate}",
         "FSB_days": "วัน",
         "FSB_end_notification": "คุณใช้โบนัสหมุนฟรีสปินของคุณเรียบร้อยแล้ว",
-        "FSB_end_notification_ message": "ใกล้ครบแล้ว! ทำยอดโรลโอเวอร์ให้เสร็จสิ้นและรับรางวัลโบนัสของคุณ",
+        "FSB_end_notification_message": "ใกล้ครบแล้ว! ทำยอดโรลโอเวอร์ให้เสร็จสิ้นและรับรางวัลโบนัสของคุณ",
         "FSB_end_notification_unusedFS": "โปรโมชั่นสิ้นสุดแล้ว",
         "FSB_end_notification_unusedFS_message": "สปินที่ค้างไม่ได้ใช้-พลาดรางวัล!",
         "FSB_end_notification_unusedFS_message1": "เล่นต่อไป! โปรโมชั่นอีกเพียบยังรออยู่",

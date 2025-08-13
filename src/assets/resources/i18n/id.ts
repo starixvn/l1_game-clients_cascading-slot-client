@@ -301,7 +301,7 @@ export const languages = {
         "from_to": "Dari\n{startdate} hingga\n{enddate}",
         "FSB_days": "Hari",
         "FSB_end_notification": "Anda telah menyelesaikan Bonus Putaran Gratis Anda",
-        "FSB_end_notification_ message": "Hampir selesai! Selesaikan Turnover & klaim Bonus Kemenangan Anda",
+        "FSB_end_notification_message": "Hampir selesai! Selesaikan Turnover & klaim Bonus Kemenangan Anda",
         "FSB_end_notification_unusedFS": "Promosi Berakhir!",
         "FSB_end_notification_unusedFS_message": "Putaran Tidak Terpakai. Hadiah Terlewati",
         "FSB_end_notification_unusedFS_message1": "Terus Mainkan! Masih Banyak Promosi Menanti",

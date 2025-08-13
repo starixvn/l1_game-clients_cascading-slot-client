@@ -308,7 +308,7 @@ export const languages = {
         "from_to": "From \n{startdate} \nto\n{enddate}",
         "FSB_days": "DAYS",
         "FSB_end_notification": "You have completed your Free Spin Bonus",
-        "FSB_end_notification_ message": "Almost there! Finish the Turnover & claim your Bonus Win",
+        "FSB_end_notification_message": "Almost there! Finish the Turnover & claim your Bonus Win",
         "FSB_end_notification_unusedFS": "Promotion Ended!",
         "FSB_end_notification_unusedFS_message": "Spins Left Unused. Reward Missed",
         "FSB_end_notification_unusedFS_message1": "Keep Playing! More Promotions Ahead",

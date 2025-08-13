@@ -305,7 +305,7 @@ export const languages = {
         "from_to": "Từ \n{startdate} \nđến\n{enddate}",
         "FSB_days": "Ngày",
         "FSB_end_notification": "Bạn đã hoàn tất các lượt Free Spin thưởng",
-        "FSB_end_notification_ message": "Hoàn thành hạn mức cược nhận ngay tiền thưởng",
+        "FSB_end_notification_message": "Hoàn thành hạn mức cược nhận ngay tiền thưởng",
         "FSB_end_notification_unusedFS": "Kết thúc khuyến mãi!",
         "FSB_end_notification_unusedFS_message": "Bỏ lỡ phần thưởng do chưa hoàn tất Free Spin",
         "FSB_end_notification_unusedFS_message1": "Khuyến Mãi Nối Tiếp, Quà Không Giới Hạn!",

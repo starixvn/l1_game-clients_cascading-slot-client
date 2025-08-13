@@ -304,7 +304,7 @@ export const languages = {
         "from_to": "{startdate}から{enddate}まで",
         "FSB_days": "日",
         "FSB_end_notification": "Free Spinボーナスを完了しました。",
-        "FSB_end_notification_ message": "もう少し！賭け条件をクリアして、ボーナス勝利金を獲得しましょう。",
+        "FSB_end_notification_message": "もう少し！賭け条件をクリアして、ボーナス勝利金を獲得しましょう。",
         "FSB_end_notification_unusedFS": "プロモーションは終了しました！",
         "FSB_end_notification_unusedFS_message": "未使用のFree Spinが残っています。報酬を獲得できませんでした。",
         "FSB_end_notification_unusedFS_message1": "プレイを続けよう！さらなるプロモーションが待っています！",
