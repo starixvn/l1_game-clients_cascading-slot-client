@@ -310,7 +310,7 @@ export const languages = {
         "FSB_end_notification_unusedFS_message": "Bỏ lỡ phần thưởng do chưa hoàn tất Free Spin",
         "FSB_end_notification_unusedFS_message1": "Khuyến Mãi Nối Tiếp, Quà Không Giới Hạn!",
         "FSB_end_notification_zero_win": "Hoàn thành Free Spin thưởng!",
-        "FSB_end_notification_zero_win_ message": "Chúc Bạn May Mắn Lần Sau",
+        "FSB_end_notification_zero_win_message": "Chúc Bạn May Mắn Lần Sau",
         "FSB_ends_in": "Kết thúc sau",
         "FSB_hours": "Giờ",
         "FSB_mins": "Phút",

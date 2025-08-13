@@ -306,7 +306,7 @@ export const languages = {
         "FSB_end_notification_unusedFS_message": "สปินที่ค้างไม่ได้ใช้-พลาดรางวัล!",
         "FSB_end_notification_unusedFS_message1": "เล่นต่อไป! โปรโมชั่นอีกเพียบยังรออยู่",
         "FSB_end_notification_zero_win": "หมุนฟรีสปินเสร็จสิ้นแล้ว!",
-        "FSB_end_notification_zero_win_ message": "ขอให้โชคดีในการเดิมพันครั้งถัดไป",
+        "FSB_end_notification_zero_win_message": "ขอให้โชคดีในการเดิมพันครั้งถัดไป",
         "FSB_ends_in": "สิ้นสุดในอีก",
         "FSB_hours": "ชั่วโมง",
         "FSB_mins": "นาที",

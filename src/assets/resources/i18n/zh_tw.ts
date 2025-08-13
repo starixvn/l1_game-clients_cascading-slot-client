@@ -309,7 +309,7 @@ export const languages = {
         "FSB_end_notification_unusedFS_message": "未使用的旋轉已丟去。獎勵已錯過",
         "FSB_end_notification_unusedFS_message1": "繼續玩！更多優惠活動等著您",
         "FSB_end_notification_zero_win": "免費旋轉已完成！",
-        "FSB_end_notification_zero_win_ message": "好運下次來",
+        "FSB_end_notification_zero_win_message": "好運下次來",
         "FSB_ends_in": "結束於",
         "FSB_hours": "小時",
         "FSB_mins": "分鐘",

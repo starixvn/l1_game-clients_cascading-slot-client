@@ -306,7 +306,7 @@ export const languages = {
         "FSB_end_notification_unusedFS_message": "Putaran Tidak Terpakai. Hadiah Terlewati",
         "FSB_end_notification_unusedFS_message1": "Terus Mainkan! Masih Banyak Promosi Menanti",
         "FSB_end_notification_zero_win": "Putaran Gratis Selesai!",
-        "FSB_end_notification_zero_win_ message": "Coba Lagi Lain Kali",
+        "FSB_end_notification_zero_win_message": "Coba Lagi Lain Kali",
         "FSB_ends_in": "Berakhir pada",
         "FSB_hours": "Jam",
         "FSB_mins": "Menit",

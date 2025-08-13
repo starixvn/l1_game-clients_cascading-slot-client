@@ -309,7 +309,7 @@ export const languages = {
         "FSB_end_notification_unusedFS_message": "未使用のFree Spinが残っています。報酬を獲得できませんでした。",
         "FSB_end_notification_unusedFS_message1": "プレイを続けよう！さらなるプロモーションが待っています！",
         "FSB_end_notification_zero_win": "Free Spin完了！",
-        "FSB_end_notification_zero_win_ message": "またの機会に！",
+        "FSB_end_notification_zero_win_message": "またの機会に！",
         "FSB_ends_in": "終了まで",
         "FSB_hours": "時間",
         "FSB_mins": "最少",

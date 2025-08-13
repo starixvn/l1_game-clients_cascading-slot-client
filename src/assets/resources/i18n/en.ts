@@ -313,7 +313,7 @@ export const languages = {
         "FSB_end_notification_unusedFS_message": "Spins Left Unused. Reward Missed",
         "FSB_end_notification_unusedFS_message1": "Keep Playing! More Promotions Ahead",
         "FSB_end_notification_zero_win": "Free Spins Completed!",
-        "FSB_end_notification_zero_win_ message": "Better Luck Next Time",
+        "FSB_end_notification_zero_win_message": "Better Luck Next Time",
         "FSB_ends_in": "Ends in",
         "FSB_hours": "HOURS",
         "FSB_mins": "MINS",
