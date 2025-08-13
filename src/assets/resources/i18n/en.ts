@@ -28,6 +28,7 @@ export const languages = {
         "cant_split_hand": "\"Split\" option is not available for this hand.",
         "cards_not_equal": "Cards are not equal value.",
         "character_name": "Nickname",
+        "Claim_expired_error_message": "The Bonus is expired. No longer available. (%{errorCode}) ",
         "copy_failed_md5": "Copy function is temporarily unavailable.",
         "copy_successfully_md5": "Copy Successful!",
         "create_nick_name": "Create Your Nickname",
@@ -298,7 +299,6 @@ export const languages = {
     },
     "FreeSpinBonus": {
         "bet_level": "Bet Level",
-        "Claim_expired_error_message": "The Bonus is expired. No longer available. (%{errorCode}) ",
         "Claim_promotion_message": "Great Performance!",
         "Claim_promotion_message_1": "You have successfully earned",
         "Claim_promotion_message_2": "Well Play!",

@@ -27,6 +27,7 @@ export const languages = {
         "cant_split_hand": "ตัวเลือก \"แยก\" ไม่พร้อมใช้งานสำหรับมือนี้",
         "cards_not_equal": " ไพ่มีมูลค่าไม่เท่ากัน",
         "character_name": "ชื่อเล่น",
+        "Claim_expired_error_message": "โบนัสหมดอายุ ไม่สามารถใช้งานได้อีกต่อไป (%{errorCode})",
         "copy_failed_md5": "ฟังก์ชันคัดลอกใช้งานไม่ได้ชั่วคราว",
         "copy_successfully_md5": "คัดลอกสำเร็จ!",
         "create_nick_name": "ตั้งชื่อเล่น",
@@ -291,7 +292,6 @@ export const languages = {
     },
     "FreeSpinBonus": {
         "bet_level": "ระดับเดิมพัน",
-        "Claim_expired_error_message": "โบนัสหมดอายุ ไม่สามารถใช้งานได้อีกต่อไป (%{errorCode})",
         "Claim_promotion_message": "สุดยอด! ",
         "Claim_promotion_message_1": "คุณได้รับแล้ว",
         "Claim_promotion_message_2": "เล่นได้ดี!",

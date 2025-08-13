@@ -27,6 +27,7 @@ export const languages = {
         "cant_split_hand": "Không thể tách bài ở tụ con.",
         "cards_not_equal": "Hai lá bài không cùng giá trị.",
         "character_name": "Tên nhân vật",
+        "Claim_expired_error_message": "Thời gian nhận thưởng đã hết. (%{errorCode}) ",
         "copy_failed_md5": "Chức năng Copy tạm thời không hoạt động.",
         "copy_successfully_md5": "Copy thành công!",
         "create_nick_name": "Tạo tên nhân vật",
@@ -295,7 +296,6 @@ export const languages = {
     },
     "FreeSpinBonus": {
         "bet_level": "Mức Cược",
-        "Claim_expired_error_message": "Thời gian nhận thưởng đã hết. (%{errorCode}) ",
         "Claim_promotion_message": "Thật Tuyệt!",
         "Claim_promotion_message_1": "Tiền thưởng về tay",
         "Claim_promotion_message_2": "Cao thủ săn quà là đây!",

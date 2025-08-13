@@ -28,6 +28,7 @@ export const languages = {
         "cant_split_hand": "このハンドでは「スプリット」オプションはご利用いただけません。",
         "cards_not_equal": "カードの価値が等しくありません。",
         "character_name": "ニックネーム",
+        "Claim_expired_error_message": "ボーナスは期限切れです。利用できなくなりました。(%{errorCode})",
         "copy_failed_md5": "コピー機能は一時的に使用できません。",
         "copy_successfully_md5": "コピー成功！",
         "create_nick_name": "ニックネームを作成",
@@ -294,7 +295,6 @@ export const languages = {
     },
     "FreeSpinBonus": {
         "bet_level": "ベットレベル",
-        "Claim_expired_error_message": "ボーナスは期限切れです。利用できなくなりました。(%{errorCode})",
         "Claim_promotion_message": "素晴らしいパフォーマンスです！",
         "Claim_promotion_message_1": "獲得に成功しました",
         "Claim_promotion_message_2": "見事です！",

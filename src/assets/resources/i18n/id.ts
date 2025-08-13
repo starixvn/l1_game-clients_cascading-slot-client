@@ -27,6 +27,7 @@ export const languages = {
         "cant_split_hand": "Opsi \"Split\" tidak tersedia untuk tangan ini.",
         "cards_not_equal": "Kartu tidak sama nilainya.",
         "character_name": "Nama panggilan",
+        "Claim_expired_error_message": "Bonus berakhir. Tidak lagi tersedia. (%{errorCode})",
         "copy_failed_md5": "Fungsi salin untuk sementara tidak tersedia.",
         "copy_successfully_md5": "Salin berhasil!",
         "create_nick_name": "Buat Nama Panggilan Anda",
@@ -291,7 +292,6 @@ export const languages = {
     },
     "FreeSpinBonus": {
         "bet_level": "Level Taruhan",
-        "Claim_expired_error_message": "Bonus berakhir. Tidak lagi tersedia. (%{errorCode})",
         "Claim_promotion_message": "Kinerja Luar Biasa!",
         "Claim_promotion_message_1": "Anda berhasil mendapatkan",
         "Claim_promotion_message_2": "Kerja Bagus!",

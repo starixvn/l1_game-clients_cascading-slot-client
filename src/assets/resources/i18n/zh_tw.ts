@@ -28,6 +28,7 @@ export const languages = {
         "cant_split_hand": "“分牌”選項不適用於這手牌",
         "cards_not_equal": "卡牌不等價。",
         "character_name": "暱稱",
+        "Claim_expired_error_message": "獎金已過期，不再有效。 (%{errorCode})",
         "copy_failed_md5": "複印功能暫時不能用。",
         "copy_successfully_md5": "複製成功！",
         "create_nick_name": "創建您的暱稱",
@@ -294,7 +295,6 @@ export const languages = {
     },
     "FreeSpinBonus": {
         "bet_level": "投注等級",
-        "Claim_expired_error_message": "獎金已過期，不再有效。 (%{errorCode})",
         "Claim_promotion_message": "表現出色！",
         "Claim_promotion_message_1": "您已成功獲得",
         "Claim_promotion_message_2": "玩得精彩！",

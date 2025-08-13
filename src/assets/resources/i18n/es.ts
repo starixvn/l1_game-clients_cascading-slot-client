@@ -28,6 +28,7 @@ export const languages = {
         "cant_split_hand": "La opción \"Dividir\" no está disponible para esta mano.",
         "cards_not_equal": "Las cartas no tienen el mismo valor.",
         "character_name": "Apodo",
+        "Claim_expired_error_message": "La Bonificación ha expirado. Ya no está disponible. (%{errorCode})",
         "copy_failed_md5": "Función de copiado temporalmente no disponible.",
         "copy_successfully_md5": "Copiado con éxito.",
         "create_nick_name": "Crea tu Apodo",
@@ -292,7 +293,6 @@ export const languages = {
     },
     "FreeSpinBonus": {
         "bet_level": "Nivel de Apuesta",
-        "Claim_expired_error_message": "La Bonificación ha expirado. Ya no está disponible. (%{errorCode})",
         "Claim_promotion_message": "¡Gran rendimiento!",
         "Claim_promotion_message_1": "¡Has ganado!",
         "Claim_promotion_message_2": "¡Bien jugado!",
