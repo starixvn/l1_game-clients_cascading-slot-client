@@ -28,7 +28,6 @@ export const languages = {
         "cant_split_hand": "“分牌”選項不適用於這手牌",
         "cards_not_equal": "卡牌不等價。",
         "character_name": "暱稱",
-        "Claim_expired_error_message": "獎金已過期，不再有效。 (%{errorCode})",
         "copy_failed_md5": "複印功能暫時不能用。",
         "copy_successfully_md5": "複製成功！",
         "create_nick_name": "創建您的暱稱",
@@ -232,7 +231,8 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "message_error_claim_expired": "獎金已過期，不再有效。 (%{errorCode})"
     },
     "cascadingslot": {
         "auto_spin": "自動旋轉",
@@ -293,7 +293,6 @@ export const languages = {
         "warning_trial_mode": "真玩，\\n贏真錢",
         "win_tumble_msg": "恭喜！",
         "you_win_free_spin": "您贏得",
-        "min_total_bet_to_buy_free_spins": null,
         "you_have_won": null,
         "in_free_spins": null,
         "feature_active": null

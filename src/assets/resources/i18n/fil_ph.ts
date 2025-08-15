@@ -59,7 +59,6 @@ export const languages = {
         "show_msg_when_spin_desktop": "PINDUTIN ANG SPACE O I-CLICK ANG SPIN",
         "scatter_odds_preview": "%{numOfScatters} o higit pang Scatters ay magti-trigger ng %{numOfSpins} FREE SPINS.",
         "coin_value_shorten": "Halaga ng Barya",
-        "min_total_bet_to_buy_free_spins": "Min Total Bet To Buy Free Spins {value}",
         "you_have_won": "You Have Won",
         "in_free_spins": "In {value} Free Spins",
         "feature_active": "Feature Active"
@@ -294,9 +293,9 @@ export const languages = {
         "message_loading": "Ikinakarga",
         "message_place_bets": "Ilagay ang Iyong Mga Taya",
         "copy_successfully_md5": "\nMatagumpay ang pag Copy!",
-        "Claim_expired_error_message": "Expired na ang Bonus. Hindi na available. (%{errorCode})",
         "pf_header_server_seed_sha256_single": "Server Seed SHA256",
-        "pf_ header_merge_client_seed_single": "Pagsamahin ang Client Seed"
+        "pf_ header_merge_client_seed_single": "Pagsamahin ang Client Seed",
+        "message_error_claim_expired": "Expired na ang Bonus. Hindi na available. (%{errorCode})"
     },
     "WukongsRevenge": {
         "game_name": "Wukong's Revenge",

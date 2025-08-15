@@ -59,7 +59,6 @@ export const languages = {
         "show_msg_when_spin_desktop": "스페이스바를 길게 누르거나 스핀을 클릭하세요",
         "scatter_odds_preview": "%{numOfScatters}개 이상의 스캐터가 나오면 %{numOfSpins} FREE SPINS가 발동됩니다.",
         "coin_value_shorten": "코인 가치",
-        "min_total_bet_to_buy_free_spins": "Free Spins 구매를 위한 최소 총 베팅",
         "you_have_won": "당첨되셨습니다",
         "in_free_spins": "Free Spins {value}회 동안",
         "feature_active": "기능 활성화"
@@ -294,9 +293,9 @@ export const languages = {
         "message_loading": "로딩 중",
         "message_place_bets": "베팅하세요",
         "copy_successfully_md5": "복사 완료!",
-        "Claim_expired_error_message": "Bonus가 만료되었습니다. 더 이상 사용할 수 없습니다. (%{errorCode})",
         "pf_header_server_seed_sha256_single": "서버 시드 SHA256",
-        "pf_ header_merge_client_seed_single": "클라이언트 시드 병합"
+        "pf_ header_merge_client_seed_single": "클라이언트 시드 병합",
+        "message_error_claim_expired": "Bonus가 만료되었습니다. 더 이상 사용할 수 없습니다. (%{errorCode})"
     },
     "WukongsRevenge": {
         "game_name": "오공의 복수",

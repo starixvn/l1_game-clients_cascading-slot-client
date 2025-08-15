@@ -27,7 +27,6 @@ export const languages = {
         "cant_split_hand": "Opsi \"Split\" tidak tersedia untuk tangan ini.",
         "cards_not_equal": "Kartu tidak sama nilainya.",
         "character_name": "Nama panggilan",
-        "Claim_expired_error_message": "Bonus berakhir. Tidak lagi tersedia. (%{errorCode})",
         "copy_failed_md5": "Fungsi salin untuk sementara tidak tersedia.",
         "copy_successfully_md5": "Salin berhasil!",
         "create_nick_name": "Buat Nama Panggilan Anda",
@@ -232,7 +231,8 @@ export const languages = {
         "opened_jackpot": "opened_jackpot",
         "no_data": null,
         "all": null,
-        "message_loading": "Loading"
+        "message_loading": "Loading",
+        "message_error_claim_expired": "Bonus berakhir. Tidak lagi tersedia. (%{errorCode})"
     },
     "cascadingslot": {
         "auto_spin": "Auto Putar",
@@ -293,7 +293,6 @@ export const languages = {
         "warning_trial_mode": "Main Nyata,\\nMenang Nyata",
         "win_tumble_msg": "SELAMAT!",
         "you_win_free_spin": "Anda menang",
-        "min_total_bet_to_buy_free_spins": null,
         "you_have_won": null,
         "in_free_spins": null,
         "feature_active": null

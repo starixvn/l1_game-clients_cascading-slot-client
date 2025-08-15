@@ -27,7 +27,6 @@ export const languages = {
         "cant_split_hand": "ตัวเลือก \"แยก\" ไม่พร้อมใช้งานสำหรับมือนี้",
         "cards_not_equal": " ไพ่มีมูลค่าไม่เท่ากัน",
         "character_name": "ชื่อเล่น",
-        "Claim_expired_error_message": "โบนัสหมดอายุ ไม่สามารถใช้งานได้อีกต่อไป (%{errorCode})",
         "copy_failed_md5": "ฟังก์ชันคัดลอกใช้งานไม่ได้ชั่วคราว",
         "copy_successfully_md5": "คัดลอกสำเร็จ!",
         "create_nick_name": "ตั้งชื่อเล่น",
@@ -232,7 +231,8 @@ export const languages = {
         "message_opened_bonus": "Invalid Bonus Game",
         "no_data": null,
         "all": null,
-        "message_loading": "Loading"
+        "message_loading": "Loading",
+        "message_error_claim_expired": "โบนัสหมดอายุ ไม่สามารถใช้งานได้อีกต่อไป (%{errorCode})"
     },
     "cascadingslot": {
         "auto_spin": "สปินอัตโนมัติ",
@@ -293,7 +293,6 @@ export const languages = {
         "warning_trial_mode": "เล่นจริง\\nชนะจริง",
         "win_tumble_msg": "ขอแสดงความยินดี!",
         "you_win_free_spin": "คุณชนะ",
-        "min_total_bet_to_buy_free_spins": null,
         "you_have_won": null,
         "in_free_spins": null,
         "feature_active": null

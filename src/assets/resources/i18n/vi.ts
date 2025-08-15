@@ -27,7 +27,6 @@ export const languages = {
         "cant_split_hand": "Không thể tách bài ở tụ con.",
         "cards_not_equal": "Hai lá bài không cùng giá trị.",
         "character_name": "Tên nhân vật",
-        "Claim_expired_error_message": "Thời gian nhận thưởng đã hết. (%{errorCode}) ",
         "copy_failed_md5": "Chức năng Copy tạm thời không hoạt động.",
         "copy_successfully_md5": "Copy thành công!",
         "create_nick_name": "Tạo tên nhân vật",
@@ -232,7 +231,8 @@ export const languages = {
         "opened_jackpot": "opened_jackpot",
         "no_data": null,
         "all": null,
-        "message_loading": "Loading"
+        "message_loading": "Loading",
+        "message_error_claim_expired": "Thời gian nhận thưởng đã hết. (%{errorCode}) "
     },
     "cascadingslot": {
         "auto_spin": "Tự Quay",
@@ -268,7 +268,6 @@ export const languages = {
         "in_free_spins": "Trong {value} Free Spins",
         "label_on_game_icon": "Nổ Sập",
         "mega_win": "Thắng Siêu Lớn",
-        "min_total_bet_to_buy_free_spins": "Tổng Cược Tối Thiểu Để Mua Free Spins {value}\n",
         "multiplier": "Số Nhân",
         "multiplier_preview_odds": "Biểu tượng số nhân sẽ được áp dụng khi có kết quả thắng.",
         "Payout-title": "Trả thưởng",

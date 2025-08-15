@@ -59,7 +59,6 @@ export const languages = {
         "show_msg_when_spin_desktop": "BOŞLUK TUŞUNA BASILI TUTUN VEYA DÖNDÜR'E TIKLAYIN",
         "scatter_odds_preview": "%{numOfScatters}+ Scatter, %{numOfSpins} FREE SPINS'i tetikler.",
         "coin_value_shorten": "Jeton Değeri",
-        "min_total_bet_to_buy_free_spins": "Min Total Bet To Buy Free Spins {value}",
         "you_have_won": "You Have Won",
         "in_free_spins": "In {value} Free Spins",
         "feature_active": "Feature Active"
@@ -294,9 +293,9 @@ export const languages = {
         "message_loading": "Yükleniyor",
         "message_place_bets": "Bahislerinizi Yapın",
         "copy_successfully_md5": "Kopyalama başarılı!",
-        "Claim_expired_error_message": "Bonussun süresi doldu. Artık mevcut değil. (%{errorCode})",
         "pf_header_server_seed_sha256_single": "Sunucu Tohumu SHA256",
-        "pf_ header_merge_client_seed_single": "Müşteri Tohumunu Birleştir"
+        "pf_ header_merge_client_seed_single": "Müşteri Tohumunu Birleştir",
+        "message_error_claim_expired": "Bonussun süresi doldu. Artık mevcut değil. (%{errorCode})"
     },
     "WukongsRevenge": {
         "game_name": "Wukong'un İntikamı",

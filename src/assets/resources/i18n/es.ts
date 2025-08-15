@@ -28,7 +28,6 @@ export const languages = {
         "cant_split_hand": "La opción \"Dividir\" no está disponible para esta mano.",
         "cards_not_equal": "Las cartas no tienen el mismo valor.",
         "character_name": "Apodo",
-        "Claim_expired_error_message": "La Bonificación ha expirado. Ya no está disponible. (%{errorCode})",
         "copy_failed_md5": "Función de copiado temporalmente no disponible.",
         "copy_successfully_md5": "Copiado con éxito.",
         "create_nick_name": "Crea tu Apodo",
@@ -232,7 +231,8 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "message_error_claim_expired": "La Bonificación ha expirado. Ya no está disponible. (%{errorCode})"
     },
     "cascadingslot": {
         "auto_spin": "Giro Automático",
@@ -293,7 +293,6 @@ export const languages = {
         "warning_trial_mode": "Juega de verdad,\nGana de verdad",
         "win_tumble_msg": "¡FELICIDADES!",
         "you_win_free_spin": "Ganaste",
-        "min_total_bet_to_buy_free_spins": null,
         "you_have_won": null,
         "in_free_spins": null,
         "feature_active": null

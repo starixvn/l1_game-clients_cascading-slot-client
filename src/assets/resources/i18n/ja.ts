@@ -28,7 +28,6 @@ export const languages = {
         "cant_split_hand": "このハンドでは「スプリット」オプションはご利用いただけません。",
         "cards_not_equal": "カードの価値が等しくありません。",
         "character_name": "ニックネーム",
-        "Claim_expired_error_message": "ボーナスは期限切れです。利用できなくなりました。(%{errorCode})",
         "copy_failed_md5": "コピー機能は一時的に使用できません。",
         "copy_successfully_md5": "コピー成功！",
         "create_nick_name": "ニックネームを作成",
@@ -232,7 +231,8 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "message_error_claim_expired": "ボーナスは期限切れです。利用できなくなりました。(%{errorCode})"
     },
     "cascadingslot": {
         "auto_spin": "オートスピン",
@@ -293,7 +293,6 @@ export const languages = {
         "warning_trial_mode": "リアルマネーでプレイ、リアルマネーを獲得！",
         "win_tumble_msg": "おめでとうございます！",
         "you_win_free_spin": "当たり",
-        "min_total_bet_to_buy_free_spins": null,
         "you_have_won": null,
         "in_free_spins": null,
         "feature_active": null

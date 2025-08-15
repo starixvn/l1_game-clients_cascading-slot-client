@@ -59,7 +59,6 @@ export const languages = {
         "show_msg_when_spin_desktop": "SEGURE ESPAÇO OU CLIQUE EM GIRAR",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters ativam %{numOfSpins} FREE SPINS.",
         "coin_value_shorten": "Valor da Moeda",
-        "min_total_bet_to_buy_free_spins": "Min Total Bet To Buy Free Spins {value}",
         "you_have_won": "You Have Won",
         "in_free_spins": "In {value} Free Spins",
         "feature_active": "Feature Active"
@@ -294,9 +293,9 @@ export const languages = {
         "message_loading": "Carregando",
         "message_place_bets": "Faça Suas Apostas",
         "copy_successfully_md5": "Cópia bem-sucedida!",
-        "Claim_expired_error_message": "O bônus expirou. Não está mais disponível. (%{errorCode})",
         "pf_header_server_seed_sha256_single": "Server Seed SHA256",
-        "pf_ header_merge_client_seed_single": "Unir Client Seed"
+        "pf_ header_merge_client_seed_single": "Unir Client Seed",
+        "message_error_claim_expired": "O bônus expirou. Não está mais disponível. (%{errorCode})"
     },
     "WukongsRevenge": {
         "game_name": "A Vingança de Wukong",

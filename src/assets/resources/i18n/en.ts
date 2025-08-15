@@ -28,7 +28,6 @@ export const languages = {
         "cant_split_hand": "\"Split\" option is not available for this hand.",
         "cards_not_equal": "Cards are not equal value.",
         "character_name": "Nickname",
-        "Claim_expired_error_message": "The Bonus is expired. No longer available. (%{errorCode}) ",
         "copy_failed_md5": "Copy function is temporarily unavailable.",
         "copy_successfully_md5": "Copy Successful!",
         "create_nick_name": "Create Your Nickname",
@@ -232,7 +231,8 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "message_error_claim_expired": "The Bonus is expired. No longer available. (%{errorCode}) "
     },
     "cascadingslot": {
         "auto_spin": "Auto Spin",
@@ -268,7 +268,6 @@ export const languages = {
         "in_free_spins": "In {value} Free Spins",
         "label_on_game_icon": "Cascading Reels",
         "mega_win": "Mega Win",
-        "min_total_bet_to_buy_free_spins": "Min Total Bet To Buy Free Spins {value}",
         "multiplier": "Multiplier",
         "multiplier_preview_odds": "Multiplier Bonus will apply for Tumble Win.",
         "Payout-title": "Paytable",

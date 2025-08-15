@@ -230,7 +230,7 @@ export const languages = {
         "message_loading": "Loading",
         "message_place_bets": "投注开始",
         "copy_successfully_md5": "复制成功！",
-        "Claim_expired_error_message": "奖金已过期，不再有效。 (%{errorCode})",
+        "message_error_claim_expired": "奖金已过期，不再有效。 (%{errorCode})",
         "pf_header_server_seed_sha256_single": "服务器种子 SHA256",
         "pf_ header_merge_client_seed_single": "合并客户种子"
     },
@@ -293,7 +293,6 @@ export const languages = {
         "show_msg_when_spin_desktop": "按住空格键或点击旋转",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters触发 %{numOfSpins} FREE SPINS。",
         "coin_value_shorten": "硬币价值",
-        "min_total_bet_to_buy_free_spins": null,
         "you_have_won": null,
         "in_free_spins": null,
         "feature_active": null
