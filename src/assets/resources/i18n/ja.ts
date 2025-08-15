@@ -227,7 +227,12 @@ export const languages = {
         "under_maintenance_time": "%{startTime}から%{endTime}（GMT+8）まで",
         "win": "勝利",
         "win_loss": "損益",
-        "you_reach_max_win": "最大勝利額に達しました"
+        "you_reach_max_win": "最大勝利額に達しました",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot"
     },
     "cascadingslot": {
         "auto_spin": "オートスピン",
@@ -287,7 +292,11 @@ export const languages = {
         "turbo_mode": "ターボモード",
         "warning_trial_mode": "リアルマネーでプレイ、リアルマネーを獲得！",
         "win_tumble_msg": "おめでとうございます！",
-        "you_win_free_spin": "当たり"
+        "you_win_free_spin": "当たり",
+        "min_total_bet_to_buy_free_spins": null,
+        "you_have_won": null,
+        "in_free_spins": null,
+        "feature_active": null
     },
     "WukongsRevenge": {
         "game_icon_name": "Wukong's Revenge",

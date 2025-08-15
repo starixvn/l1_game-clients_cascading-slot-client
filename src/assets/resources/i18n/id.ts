@@ -224,7 +224,15 @@ export const languages = {
         "under_maintenance_time": "Mulai dari %{startTime} hingga %{endTime} (GMT+8)",
         "win": "Menang",
         "win_loss": "Menang Kalah",
-        "you_reach_max_win": "Anda mencapai Maksimal Menang"
+        "you_reach_max_win": "Anda mencapai Maksimal Menang",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot",
+        "no_data": null,
+        "all": null,
+        "message_loading": "Loading"
     },
     "cascadingslot": {
         "auto_spin": "Auto Putar",
@@ -284,7 +292,11 @@ export const languages = {
         "turbo_mode": "Mode Turbo",
         "warning_trial_mode": "Main Nyata,\\nMenang Nyata",
         "win_tumble_msg": "SELAMAT!",
-        "you_win_free_spin": "Anda menang"
+        "you_win_free_spin": "Anda menang",
+        "min_total_bet_to_buy_free_spins": null,
+        "you_have_won": null,
+        "in_free_spins": null,
+        "feature_active": null
     },
     "WukongsRevenge": {
         "game_icon_name": "Pembalasan Wukong",

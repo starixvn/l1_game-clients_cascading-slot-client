@@ -227,7 +227,12 @@ export const languages = {
         "under_maintenance_time": "Starting from %{startTime} to %{endTime} (GMT+8)",
         "win": "Win",
         "win_loss": "Win Loss",
-        "you_reach_max_win": "You reached the max win"
+        "you_reach_max_win": "You reached the max win",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot"
     },
     "cascadingslot": {
         "auto_spin": "Auto Spin",

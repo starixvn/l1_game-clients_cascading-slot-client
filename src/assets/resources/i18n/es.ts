@@ -227,7 +227,12 @@ export const languages = {
         "under_maintenance_time": "A partir de %{startTime} hasta %{endTime} (GMT+8)",
         "win": "Ganar",
         "win_loss": "Ganancia/Pérdida",
-        "you_reach_max_win": "Has alcanzado la ganancia máxima."
+        "you_reach_max_win": "Has alcanzado la ganancia máxima.",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot"
     },
     "cascadingslot": {
         "auto_spin": "Giro Automático",
@@ -287,7 +292,11 @@ export const languages = {
         "turbo_mode": "Modo Turbo",
         "warning_trial_mode": "Juega de verdad,\nGana de verdad",
         "win_tumble_msg": "¡FELICIDADES!",
-        "you_win_free_spin": "Ganaste"
+        "you_win_free_spin": "Ganaste",
+        "min_total_bet_to_buy_free_spins": null,
+        "you_have_won": null,
+        "in_free_spins": null,
+        "feature_active": null
     },
     "WukongsRevenge": {
         "game_icon_name": "Wukong's Revenge",

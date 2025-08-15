@@ -227,7 +227,12 @@ export const languages = {
         "under_maintenance_time": "從 %{startTime} 到 %{endTime} (GMT+8)",
         "win": "贏",
         "win_loss": "贏 輸",
-        "you_reach_max_win": "您達到了最大勝利"
+        "you_reach_max_win": "您達到了最大勝利",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot"
     },
     "cascadingslot": {
         "auto_spin": "自動旋轉",
@@ -287,7 +292,11 @@ export const languages = {
         "turbo_mode": "渦輪模式",
         "warning_trial_mode": "真玩，\\n贏真錢",
         "win_tumble_msg": "恭喜！",
-        "you_win_free_spin": "您贏得"
+        "you_win_free_spin": "您贏得",
+        "min_total_bet_to_buy_free_spins": null,
+        "you_have_won": null,
+        "in_free_spins": null,
+        "feature_active": null
     },
     "WukongsRevenge": {
         "game_icon_name": "悟空復仇",

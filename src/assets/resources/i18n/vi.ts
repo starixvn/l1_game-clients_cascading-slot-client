@@ -224,7 +224,15 @@ export const languages = {
         "under_maintenance_time": "Thời gian bảo trì từ %{startTime} đến %{endTime} (GMT+8).",
         "win": "Thắng",
         "win_loss": "Thắng Thua",
-        "you_reach_max_win": "Bạn Đã Đạt Mức Tiền Thắng Tối Đa"
+        "you_reach_max_win": "Bạn Đã Đạt Mức Tiền Thắng Tối Đa",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot",
+        "no_data": null,
+        "all": null,
+        "message_loading": "Loading"
     },
     "cascadingslot": {
         "auto_spin": "Tự Quay",
