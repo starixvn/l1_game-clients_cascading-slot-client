@@ -348,7 +348,7 @@ export const languages = {
         "gift_code_error_message": "Introduce tu código de regalo.",
         "gift_code_message": "Reclama tu Recompensa de Free Spins.",
         "gift_code_redeem": "Canjear",
-        "Invalide_gift_code_error_message": "Código de regalo inválido. Por favor, verifica tu código e inténtalo de nuevo.",
+        "Invalide_gift_code_error_message": "Código de regalo inválido. \nPor favor, verifica tu código e inténtalo de nuevo.",
         "play_later": "Jugar Después",
         "play_now": "Jugar Ahora",
         "promo_info": "Info de la Promoción",

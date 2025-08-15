@@ -345,7 +345,7 @@ export const languages = {
         "gift_code_error_message": "กรุณาใส่รหัสของขวัญของคุณ",
         "gift_code_message": "แลกฟรีสปินของคุณ",
         "gift_code_redeem": "แลกรับ",
-        "Invalide_gift_code_error_message": "รหัสของขวัญไม่ถูกต้อง กรุณาตรวจสอบรหัสของคุณแล้วลองใหม่อีกครั้ง",
+        "Invalide_gift_code_error_message": "รหัสของขวัญไม่ถูกต้อง \nกรุณาตรวจสอบรหัสของคุณแล้วลองใหม่อีกครั้ง",
         "play_later": "เล่นทีหลัง",
         "play_now": "เล่นตอนนี้",
         "promo_info": "ข้อมูลโปรโมชั่น",

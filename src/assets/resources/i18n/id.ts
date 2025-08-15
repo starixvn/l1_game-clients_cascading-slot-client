@@ -345,7 +345,7 @@ export const languages = {
         "gift_code_error_message": "Silakan masukkan Kode Hadiah Anda.",
         "gift_code_message": "Tukarkan Hadiah Putaran Gratis Anda.",
         "gift_code_redeem": "Tukarkan",
-        "Invalide_gift_code_error_message": "Kode Hadiah Tidak Valid. Silakan periksa kode Anda dan coba lagi.",
+        "Invalide_gift_code_error_message": "Kode Hadiah Tidak Valid. \nSilakan periksa kode Anda dan coba lagi.",
         "play_later": "Main Nanti",
         "play_now": "Main Sekarang",
         "promo_info": "Informasi Promosi",

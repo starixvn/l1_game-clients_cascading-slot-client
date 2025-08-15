@@ -348,7 +348,7 @@ export const languages = {
         "gift_code_error_message": "ギフトコードを入力してください。",
         "gift_code_message": "Free Spin報酬を獲得。",
         "gift_code_redeem": "交換",
-        "Invalide_gift_code_error_message": "無効なギフトコードです。コードをご確認の上、再度お試しください。",
+        "Invalide_gift_code_error_message": "無効なギフトコードです。\nコードをご確認の上、再度お試しください。",
         "play_later": "後でプレイ",
         "play_now": "プレイ",
         "promo_info": "キャンペーン情報",
