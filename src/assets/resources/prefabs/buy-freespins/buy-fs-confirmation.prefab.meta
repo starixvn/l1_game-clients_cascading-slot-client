@@ -2,12 +2,12 @@
   "ver": "1.1.50",
   "importer": "prefab",
   "imported": true,
-  "uuid": "487b94f0-f46b-4dc0-abb6-a31bfefeb087",
+  "uuid": "91a47d51-3ea9-4a90-a449-0519131926a5",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "buy-freespin-btn"
+    "syncNodeName": "buy-fs-confirmation"
   }
 }
