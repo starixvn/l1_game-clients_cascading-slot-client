@@ -608,7 +608,9 @@
     "__prefab": {
       "__id__": 25
     },
-    "skeleton": null,
+    "skeleton": {
+      "__id__": 16
+    },
     "boneName": "number",
     "_id": ""
   },
@@ -897,10 +899,7 @@
       "b": 255,
       "a": 255
     },
-    "_spriteFrame": {
-      "__uuid__": "f41ca21d-9079-4ec3-b84b-cc2755aa067f@f9941",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "_spriteFrame": null,
     "_type": 0,
     "_fillType": 0,
     "_sizeMode": 1,
@@ -956,7 +955,9 @@
     "__prefab": {
       "__id__": 41
     },
-    "skeleton": null,
+    "skeleton": {
+      "__id__": 16
+    },
     "boneName": "text-congratulation",
     "_id": ""
   },
@@ -1083,10 +1084,7 @@
       "b": 255,
       "a": 255
     },
-    "_spriteFrame": {
-      "__uuid__": "6b1ff035-90fc-4765-bccb-bc2183e4875d@f9941",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "_spriteFrame": null,
     "_type": 0,
     "_fillType": 0,
     "_sizeMode": 1,
@@ -1142,7 +1140,9 @@
     "__prefab": {
       "__id__": 51
     },
-    "skeleton": null,
+    "skeleton": {
+      "__id__": 16
+    },
     "boneName": "text-you-won",
     "_id": ""
   },
