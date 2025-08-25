@@ -225,7 +225,15 @@ export const languages = {
         "under_maintenance_time": "เริ่มต้นจาก %{startTime} ถึง %{endTime} (GMT+8)",
         "win": "ชนะ",
         "win_loss": "ชนะ แพ้",
-        "you_reach_max_win": "คุณถึงยอดชนะสูงสุด"
+        "you_reach_max_win": "คุณถึงยอดชนะสูงสุด",
+        "message_invalid_payline": "Invalid Payline",
+        "message_invalid_bonus": "Invalid Bonus Game",
+        "message_invalid_jackpot": "Invalid Jackpot Game",
+        "message_opened_jackpot": "Invalid Jackpot Game",
+        "message_opened_bonus": "Invalid Bonus Game",
+        "no_data": null,
+        "all": null,
+        "message_loading": "Loading"
     },
     "cascadingslot": {
         "auto_spin": "สปินอัตโนมัติ",
