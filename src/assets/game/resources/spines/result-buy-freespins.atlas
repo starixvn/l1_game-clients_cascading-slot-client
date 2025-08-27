@@ -1,0 +1,55 @@
+
+result-buy-freespins.webp
+size: 1689,666
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect light circle
+  rotate: false
+  xy: 1238, 7
+  size: 243, 245
+  orig: 243, 245
+  offset: 0, 0
+  index: -1
+effect light dot
+  rotate: true
+  xy: 1226, 254
+  size: 412, 413
+  orig: 488, 490
+  offset: 37, 38
+  index: -1
+effect light line
+  rotate: false
+  xy: 1483, 46
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+effect light star
+  rotate: false
+  xy: 682, 122
+  size: 542, 544
+  orig: 542, 544
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1156, 40
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+popup BG
+  rotate: false
+  xy: 0, 0
+  size: 680, 666
+  orig: 697, 682
+  offset: 16, 3
+  index: -1
+text_freespin
+  rotate: false
+  xy: 682, 3
+  size: 472, 117
+  orig: 474, 119
+  offset: 1, 1
+  index: -1
