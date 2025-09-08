@@ -5,11 +5,7 @@
             "audios/peek-effect-item",
             "audios/peek-effect-reel",
             "audios/peek-effect-shift",
-            "audios/reelstop1",
-            "audios/reelstop2",
-            "audios/reelstop3",
-            "audios/reelstop4",
-            "audios/reelstop5",
+            "audios/reel-stop",
             "audios/spin-button",
             "audios/spinning-normal",
             "audios/spinning-turbo",
@@ -17,9 +13,9 @@
             "audios/big-win",
             "audios/coin",
             "audios/freespin",
-            "audios/increment",
-            "audios/increment-stop",
-            "audios/multiplier-appear"
+            "audios/wincount-increment",
+            "audios/wincount-stop",
+            "audios/multiplier-land"
         ]
     },
     "localized": {
