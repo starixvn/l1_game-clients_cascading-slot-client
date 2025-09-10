@@ -1,30 +1,34 @@
 {
     "lobbyNames": {
         "en": "Wukong's Revenge",
-        "es": "Wukong's Revenge",
-        "fil_ph": "Wukong's Revenge",
-        "id": "Pembalasan Wukong",
-        "ja": "Wukong's Revenge",
-        "ko": "오공의 복수",
-        "pt_br": "A Vingança de Wukong",
         "th": "การล้างแค้น\nของหงอคง",
-        "tr": "Wukong'un İntikamı",
+        "id": "Pembalasan Wukong",
         "vi": "Ngộ Không Báo Thù",
         "zh_cn": "悟空复仇",
-        "zh_tw": "悟空復仇"
+        "zh_tw": "悟空復仇",
+        "ja": "Wukong's Revenge",
+        "es": "Wukong's Revenge",
+        "tr": "Wukong'un İntikamı",
+        "fil_ph": "Wukong's Revenge",
+        "pt_br": "A Vingança de Wukong",
+        "ko": "오공의 복수",
+        "bn_bd": "Wukong's Revenge",
+        "hi_in": "Wukong's Revenge"
     },
     "gameNames": {
         "en": "Wukong's Revenge",
-        "es": "Wukong's Revenge",
-        "fil_ph": "Wukong's Revenge",
-        "id": "Pembalasan Wukong",
-        "ja": "Wukong's Revenge",
-        "ko": "오공의 복수",
-        "pt_br": "A Vingança de Wukong",
         "th": "การล้างแค้นของหงอคง",
-        "tr": "Wukong'un İntikamı",
+        "id": "Pembalasan Wukong",
         "vi": "Ngộ Không Báo Thù",
         "zh_cn": "悟空复仇",
-        "zh_tw": "悟空復仇"
+        "zh_tw": "悟空復仇",
+        "ja": "Wukong's Revenge",
+        "es": "Wukong's Revenge",
+        "tr": "Wukong'un İntikamı",
+        "fil_ph": "Wukong's Revenge",
+        "pt_br": "A Vingança de Wukong",
+        "ko": "오공의 복수",
+        "bn_bd": "Wukong's Revenge",
+        "hi_in": "Wukong's Revenge"
     }
 }
