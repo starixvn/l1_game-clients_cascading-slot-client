@@ -8,5 +8,6 @@
     "effectIntroMultiplier": true,
     "fixedExplodeDuration": 0.6,
     "allowFreeSpinsFeature": true,
-    "multiplierLandMascotAnimationName": "multiplier"
+    "multiplierLandMascotAnimationName": "multiplier",
+    "newMultiplierRange": true
 }
